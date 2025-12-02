@@ -18,7 +18,7 @@ I’m **Malik Ibrić** — Student of IT at International Burch University & AI 
 
 ---
 
-## 🔭 Awards  
+## 🥇 Awards  
 - AI-driven project “SmartField”, 1st place winner at Global HAIckathon 2025  
 
 ---
