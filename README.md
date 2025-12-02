@@ -14,7 +14,7 @@ I’m **Malik Ibrić** — Student of IT at International Burch University & AI 
 - Programming Languages: Python, MySQL, MongoDB, JavaScript, HTML, CSS,  
 - AI: Machine Learning, Prompt Engineering, Data Processing   
 - Skills: Adaptability & fast learning, Time management, Responsibility 
-- Other: Git, Docker, Azure, 
+- Other: Git, Docker, Azure
 
 ---
 
@@ -25,16 +25,13 @@ I’m **Malik Ibrić** — Student of IT at International Burch University & AI 
 
 ## 🌱 What I’m Learning  
 - Deepening my knowledge in AI & machine learning  
-- Exploring full-stack development best practices  
-- Improving my skills in building scalable, maintainable web applications  
+- Exploring DevOps best practices  
+- Improving my skills in AI
 
 ---
 
 ## 📫 How to Reach Me  
 - LinkedIn: [linkedin.com/in/malikibric](https://www.linkedin.com/in/malikibric)  
-- GitHub: [github.com/malikibric](https://github.com/malikibric)  
-- (Optional) Email: malik.ibric@stu.ibu.edu.ba  
+- Email: malik.ibric@stu.ibu.edu.ba  
 
 ---
-
--->
