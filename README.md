@@ -1,5 +1,5 @@
 # Hi there 👋  
-I’m **Malik Ibrić** — Student of IT at International Burch University & AI Enthusiast  
+I’m **Malik Ibrić** — Software Student at International Burch University & AI Enthusiast  
 
 ---
 
@@ -25,8 +25,8 @@ I’m **Malik Ibrić** — Student of IT at International Burch University & AI 
 
 ## 🌱 What I’m Learning  
 - Deepening my knowledge in AI & machine learning  
-- Exploring DevOps best practices  
-- Improving my skills in AI
+- Deepening my knowledge in AI & machine learning
+- and repeat again xd
 
 ---
 
