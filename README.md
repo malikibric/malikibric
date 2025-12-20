@@ -1,5 +1,5 @@
 # Hi there 👋  
-I’m **Malik Ibrić** — Software Student at International Burch University & AI Enthusiast  
+I’m **Malik Ibrić** — AI Engineer & Software Engineering Student at International Burch University  
 
 ---
 
@@ -19,7 +19,7 @@ I’m **Malik Ibrić** — Software Student at International Burch University & 
 ---
 
 ## 🥇 Awards  
-- AI-driven project “SmartField”, 1st place winner at Global HAIckathon 2025  
+- AI project “SmartField”, 1st place winner at Global hAIckathon 2025  
 
 ---
 
