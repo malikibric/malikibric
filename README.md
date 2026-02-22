@@ -10,13 +10,13 @@ I’m **Malik Ibrić** — AI Engineer & SWE Student at International Burch Univ
 ---
 
 ## 🧰 Skills & Tools  
--Programming Languages: Python, Go, JavaScript, SQL, PHP, Bash/Zsh, HTML, CSS
--AI & Machine Learning: PyTorch, OpenAI API, Hugging Face, LLM Integration, Prompt Engineering, Model Fine-tuning,
--AI Tools: Claude, Codex, Cursor, Windsurf, Copilot, Gemini, Antigravity, MindStudio, n8n,
--Frontend Development: React, Responsive Design, DOM Manipulation, State Management
--Backend Development: Python, Node.js, REST API, FLASK API, Django, Go
--Databases: SQL, MongoDB, Query Optimization, Database Modeling
--Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts
+- Programming Languages: Python, Go, JavaScript, SQL, PHP, Bash/Zsh, HTML, CSS
+- AI & Machine Learning: PyTorch, OpenAI API, Hugging Face, LLM Integration, Prompt Engineering, Model Fine-tuning,
+- AI Tools: Claude, Codex, Cursor, Windsurf, Copilot, Gemini, Antigravity, MindStudio, n8n,
+- Frontend Development: React, Responsive Design, DOM Manipulation, State Management
+- Backend Development: Python, Node.js, REST API, FLASK API, Django, Go
+- Databases: SQL, MongoDB, Query Optimization, Database Modeling
+- Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts
 
 ---
 
