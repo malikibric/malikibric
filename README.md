@@ -1,10 +1,10 @@
 # Hi there 👋  
-I’m **Malik Ibrić** — AI Engineer & SWE Student at International Burch University  
+I’m **Malik Ibrić**.
 
 ---
 
 ## 🎯 About Me  
-- Currently studying Software Engineering with a keen interest in artificial intelligence.    
+- Professional AI Engineer, SWE Student, after that I'm researching AI topics.   
 - Always open to collaboration and contributing to open source projects.  
 
 ---
@@ -12,7 +12,7 @@ I’m **Malik Ibrić** — AI Engineer & SWE Student at International Burch Univ
 ## 🧰 Skills & Tools  
 - Programming Languages: Python, Go, JavaScript, SQL, PHP, Bash/Zsh, HTML, CSS
 - AI & Machine Learning: PyTorch, OpenAI API, Hugging Face, LLM Integration, Prompt Engineering, Model Fine-tuning,
-- AI Tools: Claude, Codex, Cursor, Windsurf, Copilot, Gemini, Antigravity, MindStudio, n8n,
+- AI Tools: Perplexity, Claude, Codex, Cursor, Windsurf, Copilot, ZeroClaw, Gemini, Antigravity, MindStudio, make, n8n.
 - Frontend Development: React, Responsive Design, DOM Manipulation, State Management
 - Backend Development: Python, Node.js, REST API, FLASK API, Django, Go
 - Databases: SQL, MongoDB, Query Optimization, Database Modeling
@@ -21,8 +21,8 @@ I’m **Malik Ibrić** — AI Engineer & SWE Student at International Burch Univ
 ---
 
 ## 🥇 Awards  
-- AI project “SmartField”, 1st place winner at Global hAIckathon 2025  
-- Team Lead on hackathon's project at Sweden's biggest tech event, TechArena 2026
+- SmartField project 1st place winner at Global hAIckathon 2025 (https://www.global-haickathon.com/)
+- Team Lead on hackathon's project at Sweden's biggest tech event, TechArena 2026 (https://www.linkedin.com/in/malikibric/overlay/Honor/472948177/treasury/?profileId=ACoAAByuByMBV7GnX68vYhkdXFk1rkaREF9vCH4)
 ---
 
 ## 🌱 What I’m Learning  
