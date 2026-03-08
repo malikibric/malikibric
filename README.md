@@ -4,7 +4,7 @@ I’m **Malik Ibrić**.
 ---
 
 ## 🎯 About Me  
-- Professional AI Engineer, SWE Student, after that I'm researching AI topics.   
+- Professional AI Engineer, SWE Student and AI researcher.   
 - Always open to collaboration and contributing to open source projects.  
 
 ---
