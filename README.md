@@ -1,5 +1,4 @@
-# Hi there 👋  
-I’m **Malik Ibrić**.
+# Hi there, I’m **Malik Ibrić** 👋.
 
 ---
 
