@@ -12,7 +12,7 @@
 - AI Tools: Perplexity, Claude, Codex, Cursor, Windsurf, Copilot, ZeroClaw, Gemini, Antigravity, MindStudio, make, n8n.
 - Frontend Development: React, Responsive Design, DOM Manipulation, State Management
 - Backend Development: Python, Node.js, REST API, FLASK API, Django, Go
-- Databases: SQL, MongoDB, Query Optimization, Database Modeling
+- Databases: SQL, MongoDB, Query Optimization, Database Modeling.
 - Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts
 
 ---
