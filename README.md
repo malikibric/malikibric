@@ -19,7 +19,7 @@
 
 ## 🥇 Awards  
 - SmartField project 1st place winner at Global hAIckathon 2025
-- 2nd place winner at BH Engineering Weeks
+- National Recognition 2nd place winner at BH Engineering Weeks for an AI project
 - Team Lead on hackathon's project at Sweden's biggest tech event, TechArena 2026
 ---
 
