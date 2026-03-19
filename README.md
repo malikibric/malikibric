@@ -13,7 +13,7 @@
 - Frontend Development: React, Responsive Design, DOM Manipulation, State Management
 - Backend Development: Python, Node.js, REST API, FLASK API, Django, Go.
 - Databases: SQL, MongoDB, Query Optimization, Database Modeling.
-- Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts
+- Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts.
 
 ---
 
