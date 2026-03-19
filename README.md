@@ -3,7 +3,7 @@
 ## About Me  
 - Professional AI Engineer, SWE Student and AI researcher.   
 - Always open to collaboration and contributing to open source projects.  
--Deploying AI applications and doing research in AI Agentic Systems
+- Deploying AI applications and doing research in AI Agentic Systems
 ---
 
 ## Skills & Tools  
