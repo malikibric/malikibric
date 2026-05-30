@@ -3,7 +3,7 @@
 ## About Me  
 - Professional AI Software Engineer, SWE Student and AI researcher.
 - Deploying AI applications and doing research in AI Agentic Systems.
-- ## 1st place WINNER at Global hAIckathon, holder of the highest national engineering recognition (BH Engineering Weeks for AI Project)
+- # 1st place WINNER at Global hAIckathon, holder of the highest national engineering recognition (BH Engineering Weeks for AI Project)
 ---
 
 ## Skills & Tools  
