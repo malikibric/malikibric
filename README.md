@@ -1,9 +1,9 @@
 # Hi there, I’m **Malik Ibrić** 👋.
 
 ## About Me  
-- Professional AI Engineer, SWE Student and AI researcher.
+- Professional AI Software Engineer, SWE Student and AI researcher.
 - Deploying AI applications and doing research in AI Agentic Systems.
-- Always open to collaboration and contributing to open source projects.  
+- ## 1st place WINNER at Global hAIckathon, holder of the highest national engineering recognition (BH Engineering Weeks for AI Project)
 ---
 
 ## Skills & Tools  
@@ -14,13 +14,6 @@
 - Backend Development: Python, Node.js, REST API, FLASK API, Django, Go.
 - Databases: SQL, MongoDB, Query Optimization, Database Modeling.
 - Cloud & DevOps: Google Cloud Platform, AWS, Azure, Render, Git/GitHub Version Control, CI/CD Concepts.
-
----
-
-## 🥇 Awards  
-- SmartField project 1st place winner at Global hAIckathon 2025.
-- National Recognition 2nd place winner at BH Engineering Weeks for an AI project.
-- Team Lead on hackathon's project at Sweden's biggest tech event, TechArena 2026.
 ---
 
 ## What I’m Learning  
