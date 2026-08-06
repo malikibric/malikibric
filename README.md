@@ -1,7 +1,7 @@
 # Hi there, I’m **Malik Ibrić** 👋.
 
 ## About Me  
-- AI Solutions Engineer
+- AI Engineer / Forward Deployed Engineer
 - Software Engineering student
 - 1st place WINNER at Global hAIckathon
 - National recognition holder (BH Engineering Weeks for AI Project)
