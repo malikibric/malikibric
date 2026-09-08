@@ -27,6 +27,6 @@
 
 ## 📫 How to Reach Me  
 - LinkedIn: [linkedin.com/in/malikibric](https://www.linkedin.com/in/malikibric)  
-- Email: malik.ibric@stu.ibu.edu.ba  
+- Email: malikibricali@gmail.com
 
 ---
