@@ -1,8 +1,8 @@
 # Hi there, I’m **Malik Ibrić** 👋.
 
 ## About Me  
-- AI Engineer
-- Software Engineering student
+- AI Solutions Engineer
+- Business Informatics student
 - 1st place WINNER at Global hAIckathon
 - National recognition holder (BH Engineering Weeks for AI Project)
 ---
